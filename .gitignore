@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/2MoneyPOC/.vs/2MoneyPOC
+/2MoneyPOC/2MoneyPOC/obj

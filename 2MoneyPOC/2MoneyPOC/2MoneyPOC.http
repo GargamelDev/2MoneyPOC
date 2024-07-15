@@ -1,0 +1,6 @@
+@_2MoneyPOC_HostAddress = http://localhost:5194
+
+GET {{_2MoneyPOC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
